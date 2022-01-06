@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcookTacos
 - 👀 I’m interested in: Cloud Architecture, Scalable Microservice Deployments, Automation
-- 🌱 I’m currently learning automated frameworks for CI testing
+- 🌱 I’m currently learning: Go, Backend, 
 - 📫 How to reach me zeidlitzerik@gmail.com
 
 <!---
