@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcookTacos
-- 👀 I’m interested in: Cloud Architecture, Scalable Microservice Deployments, Automation
-- 🌱 I’m currently learning: Go, Backend, 
+- 👀 I’m interested in: Cloud Architecture, Open Source, Networking/Server Infrastructure  
+- 🌱 I’m currently learning: Go, Backend Development,
 - 📫 How to reach me zeidlitzerik@gmail.com
 
 <!---
