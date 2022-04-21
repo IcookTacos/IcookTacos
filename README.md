@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcookTacos
-- 👀 I’m interested in: Cloud Computing, Networking,  
-- 🌱 I’m currently learning: Go, GCP, Client / Server Architecture
+- 👀 I’m interested in: Cloud stuff, Software Automation, Automated Testing  
+- 🌱 I’m currently learning: Jenkins, Go
 - 📫 How to reach me zeidlitzerik@gmail.com
 
 <!---
