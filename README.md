@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IcookTacos
-- 👀 I’m interested in: Cloud stuff, Software Development, Backend
+- 👀 I’m interested in: ☁ Cloud Infrastructure, 💻 DevOps
 - 🌱 I’m currently learning: Rust
 - 💣 Checkout my itch.io page to see games I have created: https://icooktacos.itch.io/
 - 📫 zeidlitzerik@gmail.com
