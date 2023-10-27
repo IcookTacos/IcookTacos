@@ -2,6 +2,7 @@
 - 👀 I’m working with: *Cloud Engineering* ☁ & *DevOps* 💻
 - 🌱 I’m currently learning: *Rust* 🦀
 - 📫 zeidlitzerik@gmail.com
+- 🪐 [zeidlitz.me](http://zeidlitz.me/)
 
 <!---
 IcookTacos/IcookTacos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
