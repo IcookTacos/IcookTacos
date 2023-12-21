@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IcookTacos
-- 👀 I’m working with: *Cloud Engineering* ☁ & *DevOps* 💻
+- 👀 I’m working with: *Cloud Engineering* & *DevOps* 
 - 🌱 I’m currently learning: *Go* 
 - 📫 zeidlitzerik@gmail.com
 - 🪐 [zeidlitz.me](http://zeidlitz.me/)
